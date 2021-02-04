@@ -1,0 +1,74 @@
+body {
+  padding:40px;
+  background-color: white;
+}
+
+  h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size:60px;
+    font-weight:100;
+    padding-left: 10;
+    padding-right: 10;
+    padding-top: 40;
+    padding-bottom: 5;
+    margin-left: 10px;
+    margin-right: 200 px;
+    float:left;
+
+}
+p {
+  color:white;
+  font-size:20px;
+  font-family: 'Libre Baskerville', serif;
+  margin-left: 300px;
+  margin-right: 300px;
+  Padding:10px;
+  border-bottom: 5px solid white;
+  display:inline-block;
+}
+
+a{
+  text-decoration:underline;
+  color: white;
+}
+
+h2{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 40 px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding:50;
+  font-weight:100;
+  text-shadow: 3px 3px 3px #DDD8D8;
+  float:left;
+}
+
+img {
+float: right;
+padding:5px;}
+
+.mary {
+  background-color: white;
+  float:left;
+}
+
+.aboutme {
+  background-color:#349C79;
+  padding-top: 50px;
+
+}
+.research {
+  background-color:#47A66F;
+}
+.excell {
+  background-color:#5AB36B;
+}
+.profession {
+  background-color:#77BF70;
+}
+
+.thimble {
+  background-color: white;
+  margin-left: 600px;
+  margin-right: 600px;
+}
